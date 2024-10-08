@@ -1,0 +1,2 @@
+# NetCoreBoilerplate
+Netcore Template
