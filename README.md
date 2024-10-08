@@ -1,2 +1,2 @@
-# NetCoreBoilerplate
-Netcore Template
+# Page
+
